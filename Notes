@@ -1,0 +1,3 @@
+Several transformer based approaches for NER:
+1)Vanilla transformer
+2)BertForTokenClassification
