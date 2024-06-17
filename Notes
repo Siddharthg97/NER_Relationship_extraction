@@ -1,3 +1,11 @@
+
+Supervised NER technqiue
 Several transformer based approaches for NER:
 1)Vanilla transformer
 2)BertForTokenClassification
+
+
+Unsupervised NER technqiue
+1) Gliner
+2) LLM model with prompt
+3) Langchain (LLMChain) with prompt
