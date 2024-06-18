@@ -8,6 +8,8 @@ https://github.com/NielsRogge/Transformers-Tutorials/blob/master/BERT/Custom_Nam
 
 **Unsupervised/Zero-Few shot learning NER technqiue**
 ## 1) Gliner
+   https://github.com/urchade/GLiNER?tab=readme-ov-file
+
 ## 2) LLM model & OpenAI (models GPT3.5,GOT4) with prompt : Few shot learning with encoder based models. 
 ## 3) Spacy llms 
 4) llm ner
