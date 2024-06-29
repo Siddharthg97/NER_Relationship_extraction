@@ -40,6 +40,16 @@ NER Implementation
 
 
 
-Relationship extraction 
+***Relationship extraction***
 1)Knowledge graphs - LLMGraphTransformer ( llama3 with knowledge graphs ) , refer bookmarks
+https://medium.com/@bijit211987/enhancing-llms-inference-with-knowledge-graphs-7140b3c3d683   
+https://www.geeksforgeeks.org/relationship-extraction-in-nlp/
+
+
 2)Langchains i.e. LLMchain with relationships as prompt
+
+
+
+***Relationship Extraction***
+https://www.geeksforgeeks.org/relationship-extraction-in-nlp/
+
