@@ -44,12 +44,16 @@ NER Implementation
 1)Knowledge graphs - LLMGraphTransformer ( llama3 with knowledge graphs ) , refer bookmarks
 https://medium.com/@bijit211987/enhancing-llms-inference-with-knowledge-graphs-7140b3c3d683   
 https://www.geeksforgeeks.org/relationship-extraction-in-nlp/
-
+ i)https://neo4j.com/labs/genai-ecosystem/llm-graph-builder/
+2)Buidling knowledge graphs using REBEL & Llama index
+https://medium.com/@sauravjoshi23/building-knowledge-graphs-rebel-llamaindex-and-rebel-llamaindex-8769cf800115
+2)RAG based Knowledge graphs
+https://medium.com/neo4j/enhancing-the-accuracy-of-rag-applications-with-knowledge-graphs-ad5e2ffab663
+https://github.com/tomasonjo/blogs/blob/master/llm/enhancing_rag_with_graph.ipynb
 
 2)Langchains i.e. LLMchain with relationships as prompt
 
 
 
-***Relationship Extraction***
-https://www.geeksforgeeks.org/relationship-extraction-in-nlp/
+
 
