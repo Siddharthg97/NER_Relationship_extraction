@@ -21,8 +21,8 @@ llmner - chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/p
 
 ### Supervised NER technqiue
 Several transformer based approaches for NER:
-1)Vanilla transformer
-2)BertForTokenClassification,Roberta,distillbert,deberta
+1)Vanilla transformer  < br />
+2)BertForTokenClassification,Roberta,distillbert,deberta < br />
 https://github.com/NielsRogge/Transformers-Tutorials/blob/master/BERT/Custom_Named_Entity_Recognition_with_BERT.ipynb
 3)
 
@@ -46,10 +46,10 @@ https://www.quora.com/What-is-the-difference-between-tagger-chunker-and-NER
 
 
 ***Relationship extraction***
-1)Knowledge graphs - LLMGraphTransformer ( llama3 with knowledge graphs ) , refer bookmarks
-https://medium.com/@bijit211987/enhancing-llms-inference-with-knowledge-graphs-7140b3c3d683   
-https://www.geeksforgeeks.org/relationship-extraction-in-nlp/
- i)https://neo4j.com/labs/genai-ecosystem/llm-graph-builder/
+1)Knowledge graphs - LLMGraphTransformer ( llama3 with knowledge graphs ) , refer bookmarks <br />
+https://medium.com/@bijit211987/enhancing-llms-inference-with-knowledge-graphs-7140b3c3d683   <br /> 
+https://www.geeksforgeeks.org/relationship-extraction-in-nlp/  < br />
+ i)https://neo4j.com/labs/genai-ecosystem/llm-graph-builder/ <br />
 2)Buidling knowledge graphs using REBEL & Llama index
 https://medium.com/@sauravjoshi23/building-knowledge-graphs-rebel-llamaindex-and-rebel-llamaindex-8769cf800115
 2)RAG based Knowledge graphs
