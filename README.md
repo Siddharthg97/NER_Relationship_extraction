@@ -11,9 +11,9 @@
 
 2) **LLM model & OpenAI (models GPT3.5,GOT4) with prompt : Few shot learning with encoder based models.**
 3) **Spacy llms** 
-4) llm ner
-4) Langchains (LLMChain) with prompt template i.e. create_extraction_chain - 
-5) Langchain Chatmodels with systemprompttemplate,aipromptemplate,humanprompttemplate
+4) **llm ner**
+4) **Langchains (LLMChain) with prompt template** i.e. create_extraction_chain - 
+5) **Langchain Chatmodels with systemprompttemplate,aipromptemplate,humanprompttemplate**
 https://python.langchain.com/v0.1/docs/use_cases/extraction/
 https://www.youtube.com/watch?v=OagbDJvywJI
 https://medium.com/@grisanti.isidoro/named-entity-recognition-with-llms-extract-conversation-metadata-94d5536178f2
