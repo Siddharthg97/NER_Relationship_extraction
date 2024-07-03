@@ -1,18 +1,16 @@
-**NER Implementation**
+## NER Implementation
 
 1)Unsupervised/few shot learning/Zero shot learning for generation of labelling data set i.e. IOB notation
-
 2)Supervised fine tuning on labelled NER data.
-
 3) Metric to evaluate NER
 
 
-**Unsupervised/Zero-Few shot learning NER technqiue**
-## 1) Gliner
+### Unsupervised/Zero-Few shot learning NER technqiue
+1) **Gliner**
    https://github.com/urchade/GLiNER?tab=readme-ov-file
 
-## 2) LLM model & OpenAI (models GPT3.5,GOT4) with prompt : Few shot learning with encoder based models. 
-## 3) Spacy llms 
+2) **LLM model & OpenAI (models GPT3.5,GOT4) with prompt : Few shot learning with encoder based models.**
+3) **Spacy llms** 
 4) llm ner
 4) Langchains (LLMChain) with prompt template i.e. create_extraction_chain - 
 5) Langchain Chatmodels with systemprompttemplate,aipromptemplate,humanprompttemplate
@@ -21,7 +19,7 @@ https://www.youtube.com/watch?v=OagbDJvywJI
 https://medium.com/@grisanti.isidoro/named-entity-recognition-with-llms-extract-conversation-metadata-94d5536178f2
 llmner - chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2406.04528v1
 
-**Supervised NER technqiue**
+### Supervised NER technqiue
 Several transformer based approaches for NER:
 1)Vanilla transformer
 2)BertForTokenClassification,Roberta,distillbert,deberta
