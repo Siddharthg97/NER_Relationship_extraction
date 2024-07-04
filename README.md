@@ -58,17 +58,18 @@ https://github.com/Siddharthg97/Knowledge-graphs/blob/main/Theory.md  <br/>
 
 -------------------------------------------------------------------------------------------------------------
 
-
+https://api.python.langchain.com/en/latest/_modules/langchain_experimental/graph_transformers/llm.html
 
 
 
 5) Langchain Chatmodels with systemprompttemplate,aipromptemplate,humanprompttemplate
 https://python.langchain.com/v0.1/docs/use_cases/extraction/
+https://github.com/tomasonjo/blogs/blob/master/llm/enhancing_rag_with_graph.ipynb
 https://www.youtube.com/watch?v=OagbDJvywJI
 https://medium.com/@grisanti.isidoro/named-entity-recognition-with-llms-extract-conversation-metadata-94d5536178f2
 llmner - chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2406.04528v1
 
-
+https://api.python.langchain.com/en/latest/_modules/langchain_experimental/graph_transformers/llm.html
 
 
 
