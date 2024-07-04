@@ -49,12 +49,12 @@ https://www.quora.com/What-is-the-difference-between-tagger-chunker-and-NER
 https://medium.com/@bijit211987/enhancing-llms-inference-with-knowledge-graphs-7140b3c3d683   <br /> 
 https://www.geeksforgeeks.org/relationship-extraction-in-nlp/  < br />
  i)https://neo4j.com/labs/genai-ecosystem/llm-graph-builder/ <br />
-**2)Buidling knowledge graphs using REBEL & Llama index**
+**2)Buidling knowledge graphs using REBEL & Llama index** <br />
 https://medium.com/@sauravjoshi23/building-knowledge-graphs-rebel-llamaindex-and-rebel-llamaindex-8769cf800115 <br />
 **2)RAG based Knowledge graphs** <br />
-https://medium.com/neo4j/enhancing-the-accuracy-of-rag-applications-with-knowledge-graphs-ad5e2ffab663
-https://github.com/tomasonjo/blogs/blob/master/llm/enhancing_rag_with_graph.ipynb
-https://github.com/Siddharthg97/Knowledge-graphs/blob/main/Theory.md
+https://medium.com/neo4j/enhancing-the-accuracy-of-rag-applications-with-knowledge-graphs-ad5e2ffab663  <br />
+https://github.com/tomasonjo/blogs/blob/master/llm/enhancing_rag_with_graph.ipynb  <br />
+https://github.com/Siddharthg97/Knowledge-graphs/blob/main/Theory.md  <br/>
 
 -------------------------------------------------------------------------------------------------------------
 
