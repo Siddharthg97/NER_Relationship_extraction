@@ -1,7 +1,7 @@
 ## NER Implementation
 
 1)Unsupervised/few shot learning/Zero shot learning for generation of labelling data set i.e. IOB notation   <br />
-2)Supervised fine tuning on labelled NER data     < br/>
+2)Supervised fine tuning on labelled NER data     < br />
 3) Metric to evaluate NER  <br/>
 
 
