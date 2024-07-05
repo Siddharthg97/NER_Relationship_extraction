@@ -1,7 +1,7 @@
 ## NER Implementation
 
 1)Unsupervised/few shot learning/Zero shot learning for generation of labelling data set i.e. IOB notation   <br />
-2)Supervised fine tuning on labelled NER data     < br />
+2)Supervised fine tuning on labelled NER data     <br />
 3) Metric to evaluate NER  <br/>
 
 
@@ -20,8 +20,8 @@ https://medium.com/@grisanti.isidoro/named-entity-recognition-with-llms-extract-
 
 ### Supervised NER technqiue
 Several transformer based approaches for NER:
-1)Vanilla transformer  < br />
-2)BertForTokenClassification,Roberta,distillbert,deberta < br />
+1)Vanilla transformer  <br />
+2)BertForTokenClassification,Roberta,distillbert,deberta <br />
 https://github.com/NielsRogge/Transformers-Tutorials/blob/master/BERT/Custom_Named_Entity_Recognition_with_BERT.ipynb
 3)
 
@@ -74,11 +74,6 @@ llmner - chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/p
 
 https://api.python.langchain.com/en/latest/_modules/langchain_experimental/graph_transformers/llm.html
 
-
-
-NER Implementation
-
-3) Metric to evaluate NER
 
 
 
