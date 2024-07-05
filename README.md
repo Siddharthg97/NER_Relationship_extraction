@@ -51,12 +51,15 @@ https://www.geeksforgeeks.org/relationship-extraction-in-nlp/  < br />
  i)https://neo4j.com/labs/genai-ecosystem/llm-graph-builder/ <br />
 **2)Buidling knowledge graphs using REBEL & Llama index** <br />
 https://medium.com/@sauravjoshi23/building-knowledge-graphs-rebel-llamaindex-and-rebel-llamaindex-8769cf800115 <br />
-**2)RAG based Knowledge graphs** <br />
+**3)RAG based Knowledge graphs** <br />
 https://medium.com/neo4j/enhancing-the-accuracy-of-rag-applications-with-knowledge-graphs-ad5e2ffab663  <br />
 https://github.com/tomasonjo/blogs/blob/master/llm/enhancing_rag_with_graph.ipynb  <br />
 https://github.com/Siddharthg97/Knowledge-graphs/blob/main/Theory.md  <br/>
 
--------------------------------------------------------------------------------------------------------------
+4)Prompt for Relationship extraction <br />
+  **https://api.python.langchain.com/en/latest/_modules/langchain_experimental/graph_transformers/llm.html**
+  
+  -----------------------------------------------------------------------------------------------------------
 
 https://api.python.langchain.com/en/latest/_modules/langchain_experimental/graph_transformers/llm.html
 
