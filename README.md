@@ -57,6 +57,7 @@ https://github.com/tomasonjo/blogs/blob/master/llm/enhancing_rag_with_graph.ipyn
 https://github.com/Siddharthg97/Knowledge-graphs/blob/main/Theory.md  <br/>
 
 4)Prompt for Relationship extraction <br />
+**https://github.com/sarthakrastogi/quality-prompts/blob/main/examples/few_shot_prompt_usage.ipynb**
   **https://api.python.langchain.com/en/latest/_modules/langchain_experimental/graph_transformers/llm.html**
   
   -----------------------------------------------------------------------------------------------------------
