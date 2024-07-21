@@ -32,8 +32,7 @@ If data size is larger than token limit then chunking of data needs to be done f
 Tokens --> POS tags --> Chunking --> Named Entity Detection and Recognition --> Relation Extraction --> Understanding and Evaluating Relationships
 
 
-Chunking:-
-
+**Chunking**
 https://medium.com/@dipansutech/what-is-chunking-in-nlp-dipansu-tech-506f518e9e6a
 https://towardsdatascience.com/chunking-in-nlp-decoded-b4a71b2b4e24
 https://www.quora.com/What-is-the-difference-between-tagger-chunker-and-NER
@@ -45,6 +44,7 @@ https://www.quora.com/What-is-the-difference-between-tagger-chunker-and-NER
 Enhancing LLMs Inference with Knowledge Graphs - https://medium.com/@bijit211987/enhancing-llms-inference-with-knowledge-graphs-7140b3c3d683   <br /> 
 https://www.geeksforgeeks.org/relationship-extraction-in-nlp/  <br />
 neo4j data science: https://neo4j.com/labs/genai-ecosystem/llm-graph-builder/ <br />
+https://medium.com/@bijit211987/enhancing-llms-inference-with-knowledge-graphs-7140b3c3d683 <br />
 **2)Buidling knowledge graphs using REBEL & Llama index** <br />
 https://medium.com/@sauravjoshi23/building-knowledge-graphs-rebel-llamaindex-and-rebel-llamaindex-8769cf800115 <br />
 **3)RAG based Knowledge graphs** <br />
