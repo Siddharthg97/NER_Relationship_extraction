@@ -44,7 +44,7 @@ https://www.quora.com/What-is-the-difference-between-tagger-chunker-and-NER
 **1)Knowledge graphs - LLMGraphTransformer ( llama3 with knowledge graphs ) , refer bookmarks** <br />
 Enhancing LLMs Inference with Knowledge Graphs - https://medium.com/@bijit211987/enhancing-llms-inference-with-knowledge-graphs-7140b3c3d683   <br /> 
 https://www.geeksforgeeks.org/relationship-extraction-in-nlp/  <br />
- i)https://neo4j.com/labs/genai-ecosystem/llm-graph-builder/ <br />
+https://neo4j.com/labs/genai-ecosystem/llm-graph-builder/ <br />
 **2)Buidling knowledge graphs using REBEL & Llama index** <br />
 https://medium.com/@sauravjoshi23/building-knowledge-graphs-rebel-llamaindex-and-rebel-llamaindex-8769cf800115 <br />
 **3)RAG based Knowledge graphs** <br />
