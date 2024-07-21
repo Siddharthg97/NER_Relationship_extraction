@@ -22,7 +22,7 @@ https://medium.com/@grisanti.isidoro/named-entity-recognition-with-llms-extract-
 Several transformer based approaches for NER:
 1)Vanilla transformer  <br />
 2)BertForTokenClassification,Roberta,distillbert,deberta <br />
-https://github.com/NielsRogge/Transformers-Tutorials/blob/master/BERT/Custom_Named_Entity_Recognition_with_BERT.ipynb
+https://github.com/NielsRogge/Transformers-Tutorials/blob/master/BERT/Custom_Named_Entity_Recognition_with_BERT.ipynb <br />
 3)
 
 **Important Note** <br />
