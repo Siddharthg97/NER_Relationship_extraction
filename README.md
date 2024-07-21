@@ -40,8 +40,9 @@ https://www.quora.com/What-is-the-difference-between-tagger-chunker-and-NER
 
 
 ***Relationship extraction***
+
 **1)Knowledge graphs - LLMGraphTransformer ( llama3 with knowledge graphs ) , refer bookmarks** <br />
-https://medium.com/@bijit211987/enhancing-llms-inference-with-knowledge-graphs-7140b3c3d683   <br /> 
+Enhancing LLMs Inference with Knowledge Graphs - https://medium.com/@bijit211987/enhancing-llms-inference-with-knowledge-graphs-7140b3c3d683   <br /> 
 https://www.geeksforgeeks.org/relationship-extraction-in-nlp/  < br />
  i)https://neo4j.com/labs/genai-ecosystem/llm-graph-builder/ <br />
 **2)Buidling knowledge graphs using REBEL & Llama index** <br />
@@ -54,7 +55,7 @@ https://github.com/Siddharthg97/Knowledge-graphs/blob/main/Theory.md  <br/>
 **4)Prompt for Relationship extraction** <br />
 https://github.com/sarthakrastogi/quality-prompts/blob/main/examples/few_shot_prompt_usage.ipynb <br />
 https://api.python.langchain.com/en/latest/_modules/langchain_experimental/graph_transformers/llm.html <br />
-https://simmering.dev/blog/structured_output/
+https://simmering.dev/blog/structured_output/  <br />
 
 **5) Langchain Chatmodels with systemprompttemplate,aipromptemplate,humanprompttemplate**
 https://python.langchain.com/v0.1/docs/use_cases/extraction/
@@ -62,14 +63,13 @@ https://github.com/tomasonjo/blogs/blob/master/llm/enhancing_rag_with_graph.ipyn
 https://www.youtube.com/watch?v=OagbDJvywJI
 https://medium.com/@grisanti.isidoro/named-entity-recognition-with-llms-extract-conversation-metadata-94d5536178f2
 llmner - chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2406.04528v1
-
 https://api.python.langchain.com/en/latest/_modules/langchain_experimental/graph_transformers/llm.html
 
 **6) Relationship extraction using trigger word and event argument extraction**
 
-https://github.com/xinyadu/eeqa/tree/master?tab=readme-ov-file
-https://www.sciencedirect.com/science/article/pii/S266665102100005X
-https://www.mdpi.com/2076-3417/13/10/6308
+https://github.com/xinyadu/eeqa/tree/master?tab=readme-ov-file <br />
+https://www.sciencedirect.com/science/article/pii/S266665102100005X <br />
+https://www.mdpi.com/2076-3417/13/10/6308  <br />
 
 
 
