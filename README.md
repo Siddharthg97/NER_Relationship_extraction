@@ -61,8 +61,9 @@ https://github.com/xinyadu/eeqa/tree/master?tab=readme-ov-file <br />
 https://www.sciencedirect.com/science/article/pii/S266665102100005X <br />
 https://www.mdpi.com/2076-3417/13/10/6308  <br />
 
-
-**Prompt for Relationship extraction** <br />
+**4)LLM Chain** 
+https://lopezyse.medium.com/knowledge-graphs-from-scratch-with-python-f3c2a05914cc
+**Prompt for Relationship extraction for Graph transformer** <br />
 https://github.com/sarthakrastogi/quality-prompts/blob/main/examples/few_shot_prompt_usage.ipynb <br />
 https://api.python.langchain.com/en/latest/_modules/langchain_experimental/graph_transformers/llm.html <br />
 https://simmering.dev/blog/structured_output/  <br />
