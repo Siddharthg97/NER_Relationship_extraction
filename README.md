@@ -10,16 +10,16 @@
    https://github.com/urchade/GLiNER?tab=readme-ov-file
 
 2) **LLM model & OpenAI (models GPT3.5,GOT4) with prompt : Few shot learning with decoder based models from hugging face**
-3) **Spacy llms** 
-4) **llm ner** - llmner - chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2406.04528v1
-5) **Langchains (LLMChain) with prompt template** i.e. create_extraction_chain  
-6) **Langchain Chatmodels with systemprompttemplate,aipromptemplate,humanprompttemplate**
+3) **Spacy llms** <br />
+4) **llm ner** - llmner - chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2406.04528v1 <br />
+5) **Langchains (LLMChain) with prompt template** i.e. create_extraction_chain   <br />
+6) **Langchain Chatmodels with systemprompttemplate,aipromptemplate,humanprompttemplate**  <br />
 https://python.langchain.com/v0.1/docs/use_cases/extraction/
 https://www.youtube.com/watch?v=OagbDJvywJI
 https://medium.com/@grisanti.isidoro/named-entity-recognition-with-llms-extract-conversation-metadata-94d5536178f2
 
 ### Supervised NER technqiue
-Several transformer based approaches for NER:
+Several transformer based approaches for NER: <br />
 1)Vanilla transformer  <br />
 2)BertForTokenClassification,Roberta,distillbert,deberta <br />
 https://github.com/NielsRogge/Transformers-Tutorials/blob/master/BERT/Custom_Named_Entity_Recognition_with_BERT.ipynb <br />
