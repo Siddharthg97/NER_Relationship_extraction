@@ -45,10 +45,13 @@ Enhancing LLMs Inference with Knowledge Graphs - https://medium.com/@bijit211987
 https://www.geeksforgeeks.org/relationship-extraction-in-nlp/  <br />
 neo4j data science: https://neo4j.com/labs/genai-ecosystem/llm-graph-builder/ <br />
 https://medium.com/@bijit211987/enhancing-llms-inference-with-knowledge-graphs-7140b3c3d683 <br />
+https://python.langchain.com/v0.1/docs/use_cases/graph/constructing/ <br />
+
 **2)Buidling knowledge graphs using REBEL & Llama index** <br />
 https://medium.com/@sauravjoshi23/building-knowledge-graphs-rebel-llamaindex-and-rebel-llamaindex-8769cf800115 <br />
 **3)RAG based Knowledge graphs** <br />
 https://medium.com/neo4j/enhancing-the-accuracy-of-rag-applications-with-knowledge-graphs-ad5e2ffab663  <br />
+https://www.geeksforgeeks.org/retrieval-augmented-generation-rag-for-knowledge-intensive-nlp-tasks/ <br />
 https://github.com/tomasonjo/blogs/blob/master/llm/enhancing_rag_with_graph.ipynb  <br />
 https://github.com/Siddharthg97/Knowledge-graphs/blob/main/Theory.md  <br/>
 
