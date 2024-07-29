@@ -1,0 +1,1 @@
+[['Treblinka is a small village in Poland.', {'entities': [[0, 9, 'GPE']]}], ['Wikipedia notes that Treblinka is not large.', {'entities': [[21, 30, 'GPE']]}]]
