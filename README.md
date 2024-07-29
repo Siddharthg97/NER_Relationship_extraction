@@ -60,7 +60,8 @@ https://github.com/Siddharthg97/Knowledge-graphs/blob/main/Theory.md  <br/>
 https://github.com/xinyadu/eeqa/tree/master?tab=readme-ov-file <br />
 https://www.sciencedirect.com/science/article/pii/S266665102100005X <br />
 https://www.mdpi.com/2076-3417/13/10/6308  <br />
-
+***Combined NER and Relationship extraction*** <br />
+https://github.com/walidamamou/relation_extraction_transformer/blob/main/relations_training.txt <br />
 **4)LLM Chain**  <br />
 https://lopezyse.medium.com/knowledge-graphs-from-scratch-with-python-f3c2a05914cc <br />
 **Prompt for Relationship extraction for Graph transformer** <br />
