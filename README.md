@@ -55,6 +55,10 @@ https://www.geeksforgeeks.org/retrieval-augmented-generation-rag-for-knowledge-i
 https://github.com/tomasonjo/blogs/blob/master/llm/enhancing_rag_with_graph.ipynb  <br />
 https://github.com/Siddharthg97/Knowledge-graphs/blob/main/Theory.md  <br/>
 
+***3)Relationship extraction with BERT** <br />
+https://github.com/weizhepei/CasRel/blob/master/README.md <br />
+
+
 **4)Relationship extraction using trigger word and event argument extraction** <br />
 
 https://github.com/xinyadu/eeqa/tree/master?tab=readme-ov-file <br />
