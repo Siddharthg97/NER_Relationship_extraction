@@ -66,12 +66,23 @@ https://www.sciencedirect.com/science/article/pii/S266665102100005X <br />
 https://www.mdpi.com/2076-3417/13/10/6308  <br />
 ***Combined NER and Relationship extraction*** <br />
 https://github.com/walidamamou/relation_extraction_transformer/blob/main/relations_training.txt <br />
+
+***5)Supervised fine tuning for Relationship-extraction***   <br />
+1)https://github.com/SolanaO/Blogs_Content/blob/master/llama3_re/Llama3_RE_Inference_SFT.ipynb <br />
+2)https://towardsdatascience.com/relation-extraction-with-llama3-models-f8bc41858b9e  <br />
+3)https://colab.research.google.com/drive/1N9p-rfToBs9VYlZKPUQoqYSH-tPaHnmx?usp=sharing#scrollTo=bJaSzJrhjWVh
+4)https://medium.com/@yitaoli416/small-size-llms-open-information-extraction-b172155f8e92
+
+
+
 **4)LLM Chain**  <br />
 https://lopezyse.medium.com/knowledge-graphs-from-scratch-with-python-f3c2a05914cc <br />
 **Prompt for Relationship extraction for Graph transformer** <br />
 https://github.com/sarthakrastogi/quality-prompts/blob/main/examples/few_shot_prompt_usage.ipynb <br />
 https://api.python.langchain.com/en/latest/_modules/langchain_experimental/graph_transformers/llm.html <br />
 https://simmering.dev/blog/structured_output/  <br />
+
+
 
 **Langchain Chatmodels with systemprompttemplate,aipromptemplate,humanprompttemplate**
 https://python.langchain.com/v0.1/docs/use_cases/extraction/
@@ -80,6 +91,9 @@ https://www.youtube.com/watch?v=OagbDJvywJI
 https://medium.com/@grisanti.isidoro/named-entity-recognition-with-llms-extract-conversation-metadata-94d5536178f2
 llmner - chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2406.04528v1
 https://api.python.langchain.com/en/latest/_modules/langchain_experimental/graph_transformers/llm.html
+
+
+
 
 
 
